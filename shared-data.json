@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-25T09:15:33.598Z",
-  "updatedBy": "liuxiaojie",
+  "updatedAt": "2026-08-25T09:52:44.504Z",
+  "updatedBy": "boss",
   "team": [
     {
       "id": "mt8ehpnlv8m8",
@@ -12,6 +12,149 @@
       "due": "2026-08-26",
       "status": "done",
       "claimedBy": "刘小杰"
+    },
+    {
+      "id": "mt8h929zzipn",
+      "task": "一家小规模公司厦门急鲜蜂供应链管理有限公司注册，房东已同意盖章转租协议，对接陈小雨。",
+      "member": "艾燕",
+      "collaborators": "",
+      "content": "",
+      "priority": "普通",
+      "due": "2026-08-31",
+      "status": "pending",
+      "claimedBy": ""
+    },
+    {
+      "id": "mt8h9w9isdok",
+      "task": "7月经营分析",
+      "member": "艾燕",
+      "collaborators": "",
+      "content": "",
+      "priority": "普通",
+      "due": "2026-08-31",
+      "status": "pending",
+      "claimedBy": ""
+    },
+    {
+      "id": "mt8haz0cot3b",
+      "task": "9月现金流及支付税金计划",
+      "member": "艾燕",
+      "collaborators": "",
+      "content": "",
+      "priority": "普通",
+      "due": "2026-09-05",
+      "status": "pending",
+      "claimedBy": ""
+    },
+    {
+      "id": "mt8hc71qrina",
+      "task": "库塔业务系统上线及搬仓、运输切换节奏",
+      "member": "刘小杰",
+      "collaborators": "",
+      "content": "",
+      "priority": "普通",
+      "due": "2026-08-31",
+      "status": "pending",
+      "claimedBy": ""
+    },
+    {
+      "id": "mt8hctpanffm",
+      "task": "花果山2C合同签署",
+      "member": "刘小杰",
+      "collaborators": "",
+      "content": "",
+      "priority": "普通",
+      "due": "2026-08-31",
+      "status": "pending",
+      "claimedBy": ""
+    },
+    {
+      "id": "mt8hdmvhyaus",
+      "task": "新签卡班零担客户",
+      "member": "陈胜",
+      "collaborators": "",
+      "content": "",
+      "priority": "普通",
+      "due": "2026-09-05",
+      "status": "pending",
+      "claimedBy": ""
+    },
+    {
+      "id": "mt8hersy756t",
+      "task": "食堂客户投标资料准备",
+      "member": "刘小杰",
+      "collaborators": "",
+      "content": "",
+      "priority": "普通",
+      "due": "2026-08-26",
+      "status": "pending",
+      "claimedBy": ""
+    },
+    {
+      "id": "mt8hfo2c9rh0",
+      "task": "朱富贵项目合同签署",
+      "member": "刘小杰",
+      "collaborators": "",
+      "content": "",
+      "priority": "普通",
+      "due": "2026-09-10",
+      "status": "pending",
+      "claimedBy": ""
+    },
+    {
+      "id": "mt8hgnx6iy72",
+      "task": "柠檬大叔业务报价及业务推进",
+      "member": "陈胜",
+      "collaborators": "",
+      "content": "",
+      "priority": "普通",
+      "due": "2026-08-31",
+      "status": "pending",
+      "claimedBy": ""
+    },
+    {
+      "id": "mt8hhb1amrcg",
+      "task": "月台门维修测试",
+      "member": "刘小杰",
+      "collaborators": "",
+      "content": "",
+      "priority": "普通",
+      "due": "2026-08-31",
+      "status": "pending",
+      "claimedBy": ""
+    },
+    {
+      "id": "mt8hidos5ktb",
+      "task": "锁鲜阁商标注册",
+      "member": "艾燕",
+      "collaborators": "",
+      "content": "",
+      "priority": "普通",
+      "due": "2026-09-10",
+      "status": "pending",
+      "claimedBy": ""
+    },
+    {
+      "id": "mt8hk4je4el7",
+      "task": "人员招聘：缺口2人（管培生或多面手）",
+      "member": "刘小杰",
+      "collaborators": "艾燕",
+      "content": "协作面试、定薪及入职流程办理",
+      "priority": "普通",
+      "due": "2026-09-30",
+      "status": "pending",
+      "claimedBy": ""
+    },
+    {
+      "id": "mt8hkr19iv36",
+      "task": "赖华森医社保减员",
+      "member": "艾燕",
+      "collaborators": "",
+      "content": "",
+      "priority": "普通",
+      "due": "2026-08-31",
+      "status": "pending",
+      "claimedBy": ""
     }
   ],
   "projects": [],
