@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T09:00:56.650Z",
+  "updatedAt": "2026-08-25T09:15:33.598Z",
   "updatedBy": "liuxiaojie",
   "team": [
     {
@@ -10,7 +10,7 @@
       "content": "完成账单核对后，尽快开票给谷德，并将原发票冲红",
       "priority": "普通",
       "due": "2026-08-26",
-      "status": "claimed",
+      "status": "done",
       "claimedBy": "刘小杰"
     }
   ],
@@ -31,7 +31,7 @@
       "priority": "普通",
       "due": "2026-08-26",
       "created": "2026-08-25",
-      "done": false,
+      "done": true,
       "fromTeam": "mt8ehpnlv8m8"
     }
   ]
