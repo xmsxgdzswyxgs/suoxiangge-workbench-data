@@ -1,1 +1,38 @@
-{"updatedAt": "2026-08-25T08:43:24.215Z", "updatedBy": "boss", "team": [{"id": "mt8ehpnlv8m8", "task": "圣农5月份耗材费用核对", "member": "刘小杰", "collaborators": "艾燕", "content": "完成账单核对后，尽快开票给谷德，并将原发票冲红", "priority": "普通", "due": "2026-08-26", "status": "pending", "claimedBy": ""}], "projects": [], "news": [], "inventory": [], "inout": [], "transport": [], "labor": [], "todos": []}
+{
+  "updatedAt": "2026-08-25T09:00:56.650Z",
+  "updatedBy": "liuxiaojie",
+  "team": [
+    {
+      "id": "mt8ehpnlv8m8",
+      "task": "圣农5月份耗材费用核对",
+      "member": "刘小杰",
+      "collaborators": "艾燕",
+      "content": "完成账单核对后，尽快开票给谷德，并将原发票冲红",
+      "priority": "普通",
+      "due": "2026-08-26",
+      "status": "claimed",
+      "claimedBy": "刘小杰"
+    }
+  ],
+  "projects": [],
+  "news": [],
+  "inventory": [],
+  "inout": [],
+  "transport": [],
+  "labor": [],
+  "todos": [
+    {
+      "id": "mt8fpuvlnyya",
+      "text": "圣农5月份耗材费用核对",
+      "owner": "刘小杰",
+      "collaborators": [
+        "艾燕"
+      ],
+      "priority": "普通",
+      "due": "2026-08-26",
+      "created": "2026-08-25",
+      "done": false,
+      "fromTeam": "mt8ehpnlv8m8"
+    }
+  ]
+}
